@@ -1,0 +1,2 @@
+* Emacs SWAG
+a repo inspired from emacs-jp/reading-inti.el 
